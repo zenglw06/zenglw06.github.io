@@ -5,7 +5,7 @@ baseurl: https://zenglw06.github.io
 url: https://zenglw06.github.io
 date_format: "ordinal"
 title: 博客
-subtitle: ""
+subtitle: "zenglw06"
 description: "zenglw06 的个人博客"
 keywords: zenglw06
 timezone: Asia/Shanghai
@@ -29,7 +29,7 @@ components:
         start_date: 2020-05-03
     # My Popular Repositories
     side_bar_repo:
-        enabled: true
+        enabled: false
         limit: 3
     # 文章字数统计
     word_count:
@@ -73,14 +73,6 @@ navs:
   -
     href: /categories/
     label: 分类
-
-#   -
-#     href: /archives/
-#     label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
 
   -
     href: /wiki/

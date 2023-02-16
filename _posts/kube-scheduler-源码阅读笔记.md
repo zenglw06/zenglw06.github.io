@@ -1,5 +1,5 @@
 ---
-layout: wiki
+layout: post
 title: kubernetes scheduler 调度器源码阅读
 cate1: kubernetes
 cate2: 
