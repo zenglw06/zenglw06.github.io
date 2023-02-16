@@ -1,11 +1,11 @@
 ---
 layout: post
 title: kubernetes scheduler 调度器源码阅读
-cate1: kubernetes
-cate2: 
+categories: [kubernetes]
 description: kubernetes
 keywords: kubernetes, kube-scheduler
 ---
+
 # Kube-Scheduler
 
 > k8s Scheduler 源码阅读的相关笔记资料
