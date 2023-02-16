@@ -1,7 +1,7 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://zenglw06.github.io
+baseurl: 
 url: https://zenglw06.github.io
 date_format: "ordinal"
 title: 博客
