@@ -5,14 +5,12 @@ baseurl: https://zenglw06.github.io
 url: https://zenglw06.github.io
 date_format: "ordinal"
 title: 博客
-subtitle: "公众号："
+subtitle: ""
 description: "zenglw06 的个人博客"
 keywords: zenglw06
 timezone: Asia/Shanghai
 encoding: "utf-8"
-# 页面左下角显示的年份
 since: 2023
-# 源码仓库，请替换成自己的
 repository: zenglw06/zenglw06.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
@@ -32,7 +30,7 @@ components:
     # My Popular Repositories
     side_bar_repo:
         enabled: true
-        limit: 5
+        limit: 3
     # 文章字数统计
     word_count:
         enabled: true
