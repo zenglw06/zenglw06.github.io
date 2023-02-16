@@ -1,0 +1,16 @@
+- name: Software Engineer Keywords
+  keywords:
+      - Python
+      - golang
+      - Design Patterns
+
+- name: Cloud
+  keywords:
+      - kubernetes
+      - knative
+      - kubeflow
+
+- name: Machine Learning
+  keywords:
+      - AI Engine develop
+      - Machine Learning platform
